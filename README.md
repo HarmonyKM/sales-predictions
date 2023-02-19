@@ -52,8 +52,8 @@ Data preprocessing plays a key role in earlier stages of machine learning and AI
 
 
 
-#### Visual 1 Title
-![sample image](https://www.techtarget.com/searchdatamanagement/definition/data-preprocessing)
+#### Preprocessing Data
+![sample image](https://github.com/HarmonyKM/sales-predictions/blob/main/steps_for_data_preprocessing-f.png)
 
-> Sentence about visualization.
+> Data preprocessing transforms the data into a format that is more easily and effectively processed in data mining, machine learning and other data science tasks. The techniques are generally used at the earliest stages of the machine learning and AI development pipeline to ensure accurate results.
 
